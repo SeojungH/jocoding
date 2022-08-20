@@ -15,3 +15,13 @@ print(a**b) #제곱
 c = "seojung"
 
 print(type(c)) #str으로 나옴
+
+d = "Python"
+e = " is fun"
+
+print(d+e)
+print(d[0])
+
+print(d[::2]) #슬라이싱
+f = "I eat %d apples" % 3
+print(f)
